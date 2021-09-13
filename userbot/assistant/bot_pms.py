@@ -106,7 +106,8 @@ async def bot_start(event):
             start_msg = f"Hey! 👤{mention},\
                         \nI am Thea Stilton.\
                         \nSister of [Geronimo](https://t.me/Geronimo1234).\
-                        \nOwner of [Rodent's Gazette](https://t.me/free_music123)"
+                        \nOwner of [Rodent's Gazette](https://t.me/free_music123)\
+                        \n\n Send your message"
         buttons = [
             (
                 Button.url("Meet Trap", "https://t.me/myassisthelperbot"),
